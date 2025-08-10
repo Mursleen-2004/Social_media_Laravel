@@ -1,6 +1,6 @@
 #### 1. Clone the project
 ```bash
-git clone https://github.com/thecodeholic/laravel-social-media-website.git
+git clone https://https://github.com/Mursleen-2004/Social_media_Laravel
 ```
 
 #### 2. Run `composer install`
